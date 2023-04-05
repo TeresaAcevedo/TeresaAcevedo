@@ -1,4 +1,24 @@
-### Hi there 👋
+![](https://www.telvista.com/wp-content/uploads/2022/06/Logo-Telvista.png)
+
+
+### Hola compañeros👋
+
+- 👨‍🏫 Ejecutiva de cuentas - TELVISTA.
+- 💜 Me gusta demostrar mi compañerismo y apoyo a quien lo necesite sin esperar nada a cambio.
+- 👋 Terca, Original.
+- ✨No soy religiosa pero tengo mucha fe.
+
+
+## Horario Laboral
+
+| Horario 	|Lunes                        |Martes                       |Miercoles                    |Jueves                       |Viernes                      |
+|----------	|:---------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|
+|8:30-10:30 |Campaña recuperacion 2023    |Campaña Wifi Basico          |Campaña recuperacion 2023    |Campaña Wifi Basico          |Campaña recuperacion 2023    |
+|10:30-1:00 |Campaña Wifi Basico          |Campaña recuperacion 2023    |Campaña Wifi Basico          |Campaña recuperacion 2023    |Campaña Wifi Basico          |
+|1:00-2:00  |Comida                       |Comida                       |Comida                       |Comida                       |Comida                       | 
+|2:00-3:00  |Contactación clientes rezago |Actualizacion CFDI           |Migraciones FTTH             |Actualizacion CFDI           |Migraciones FTTH             |
+|3:00-4:30  |Actualizacion CFDI           |Contactación clientes rezago |Actualizacion CFDI           |Seguimiento rezago           |Actualizacion CFDI           |
+|4:30-5:30  |Administrativos              |Administrativos              |Administrativos              |Administrativos              |Administrativos              |
 
 <!--
 **TeresaAcevedo/TeresaAcevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
